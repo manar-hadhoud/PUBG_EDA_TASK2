@@ -125,6 +125,10 @@ The dataset contains information about 44 PUBG weapons with 20 columns, includin
 
 ---
 
+![Image](https://github.com/user-attachments/assets/c1f82f37-d40c-480c-9783-57755c78db83)
+
+---
+
 ## Future Work
 - Integrate advanced visualizations using tools like Plotly or Dash.
 - Perform predictive modeling to estimate weapon effectiveness in hypothetical scenarios.
